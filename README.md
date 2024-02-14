@@ -37,8 +37,6 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me: </h3>
-
-<h2> 🤝🏻 &nbsp;Email: Orazowd77@gmail.com: </h2>
+<h2> 🤝🏻 &nbsp;Email: Orazowd77@gmail.com</h2>
 
 ⭐️ From [AVS1508]([(https://github.com/Orazovdb)])
