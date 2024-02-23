@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a Business Development Associate at Salam.
-- 🌱 &nbsp; Choose more about cloud architecture, system design and keep up with new technologiesю
+- 🌱 &nbsp; Choose more about cloud architecture, system design and keep up with new technologies
   
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
