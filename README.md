@@ -28,12 +28,12 @@
 <br/>
 
 <a href="https://github.com/Orazovdb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Orazovdb&theme=onedark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orazovdb&theme=onedark&layout=compact" />
 </a>
 
 <br/>
 
 <h2> 🤝🏻 &nbsp;Email: Orazowd77@gmail.com</h2>
 
-⭐️ From [AVS1508]([(https://github.com/Orazovdb)])
+⭐️ From [Orazovdb]([(https://github.com/Orazovdb)])
